@@ -1,6 +1,6 @@
 # go-weather
 
-Basic weather app built with Go.
+Basic weather app built with Go. Displays the weather based on your current location (IP based).
 
 **DISCLAIMER:** This is my first ever Go app. In fact, first ever time with the Go language. This readme is likely not enough to actually get started.
 

@@ -2,7 +2,7 @@
 
 Basic weather app built with Go.
 
-DISCLAIMER: This is my first ever Go app. In fact, first ever time with the Go language. This readme is likely not enough to actually get started.
+**DISCLAIMER:** This is my first ever Go app. In fact, first ever time with the Go language. This readme is likely not enough to actually get started.
 
 This app was based on [this tutorial](http://www.sitepoint.com/go-building-web-applications-beego/).
 

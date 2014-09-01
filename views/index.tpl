@@ -74,6 +74,9 @@
 			    <br />
 			    	Contact me: {{.Email}}
 			    </p>
+			    <p></p>
+			    <p class="description">Current weather for your location:</p>
+			    <p class="description">{{.WeatherResponse}}</p>
 			  </div>
 			</div>
 			</div>

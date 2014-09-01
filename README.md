@@ -29,4 +29,4 @@ This app was based on [this tutorial](http://www.sitepoint.com/go-building-web-a
 
 # Deployment
 
-Nothing yet. Maybe never. Maybe some time soon. Who knows.
+Nothing yet. Maybe soon. Maybe never. Who knows.

@@ -25,7 +25,7 @@ This app was based on [this tutorial](http://www.sitepoint.com/go-building-web-a
   bee run
   ```
 
-5. Visit http://localhost:9000
+5. Visit http://localhost:8080
 
 # Deployment
 

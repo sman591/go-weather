@@ -66,17 +66,11 @@
 			<div class="container">
 			<div class="row">
 			  <div class="hero-text">
-			    <h1>Welcome to Beego!</h1>
-			    <p class="description">
-			    	Beego is a simple & powerful Go web framework which is inspired by tornado and sinatra.
-			    <br />
-			    	Official website: <a href="http://{{.Website}}">{{.Website}}</a>
-			    <br />
-			    	Contact me: {{.Email}}
-			    </p>
-			    <p></p>
-			    <p class="description">Current weather for your location:</p>
-			    <p class="description">{{.WeatherResponse}}</p>
+			    <h1>Welcome to Go Weather!</h1>
+			    <br>
+			    <p class="description">Current weather for: <strong>{{.WeatherLocation}}</strong></p>
+			    <p class="description">{{.WeatherTemperature}} degrees {{.WeatherUnitTemperature}} and {{.WeatherConditions}}</p>
+			    <p class="description">Wind at {{.WeatherWindSpeed}} {{.WeatherUnitSpeed}}, {{.WeatherWindChill}} degrees {{.WeatherUnitTemperature}} Wind Chill, {{.WeatherHumidity}}% Humidity</p>
 			  </div>
 			</div>
 			</div>
